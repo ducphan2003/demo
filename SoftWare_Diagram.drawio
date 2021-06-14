@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T17:42:20.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="fZCauOtEj_ekPZ7P8i7F" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T18:03:12.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QMJ4UcdZpgAPJgp73mqU" version="14.7.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-1" value="&lt;p&gt;Đọc các giá trị &lt;br&gt;thời gian đã lưu &lt;br&gt;từ Flash&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="102.5" width="115" height="55" as="geometry" />
+          <mxGeometry x="185" y="102.5" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-2" target="qwEOwE-_AJAWrVWyedu_-1">
           <mxGeometry relative="1" as="geometry" />
@@ -22,8 +22,16 @@
         <mxCell id="qwEOwE-_AJAWrVWyedu_-2" value="Các thời gian trong bộ nhớ Flash" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="90" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-3" value="Xoá bộ nhớ Flash" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="15" y="195" width="120" height="60" as="geometry" />
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-3" value="Xoá bộ &lt;br&gt;nhớ Flash" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="12.5" y="195" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-4" target="qwEOwE-_AJAWrVWyedu_-3">
           <mxGeometry relative="1" as="geometry" />
@@ -32,25 +40,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-4" value="Nút nhấn &lt;br&gt;Reset?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="190" width="120" height="70" as="geometry" />
+          <mxGeometry x="182.5" y="190" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-5" target="qwEOwE-_AJAWrVWyedu_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-5" value="Sau 15 phút &lt;br&gt;không nhận thêm &lt;br&gt;dữ liệu?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="290" width="140" height="100" as="geometry" />
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-5" target="qwEOwE-_AJAWrVWyedu_-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-6">
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-5" value="Sau 15 phút &lt;br&gt;không nhận thêm &lt;br&gt;dữ liệu?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="172.5" y="290" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="400" as="targetPoint" />
+            <mxPoint x="240" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="75" y="400" />
-              <mxPoint x="210" y="400" />
+              <mxPoint x="60" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-6" value="Lưu các báo thức vào bộ nhớ Flash" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-6" value="Lưu các &lt;br&gt;báo thức vào&lt;br&gt;bộ nhớ Flash" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="310" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-7" target="qwEOwE-_AJAWrVWyedu_-8">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-7" value="Kiểm tra &lt;br&gt;có dữ liệu gửi đến &lt;br&gt;UART 2?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="420" width="140" height="100" as="geometry" />
+          <mxGeometry x="172.5" y="420" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-8" target="qwEOwE-_AJAWrVWyedu_-9">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-8" value="Kiểm tra &lt;br&gt;có dữ liệu gửi đến &lt;br&gt;UART 3?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="660" width="140" height="100" as="geometry" />
+          <mxGeometry x="172.5" y="630" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-9" target="qwEOwE-_AJAWrVWyedu_-10">
           <mxGeometry relative="1" as="geometry" />
@@ -77,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-9" value="Kiểm tra &lt;br&gt;nếu còn thuốc?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="790" width="140" height="100" as="geometry" />
+          <mxGeometry x="172.5" y="760" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-10" target="qwEOwE-_AJAWrVWyedu_-42">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +96,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-10" value="Có ngăn nào &lt;br&gt;được đóng không?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="930" width="140" height="100" as="geometry" />
+          <mxGeometry x="172.5" y="900" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-11" target="qwEOwE-_AJAWrVWyedu_-7">
           <mxGeometry relative="1" as="geometry" />
@@ -94,8 +104,8 @@
         <mxCell id="qwEOwE-_AJAWrVWyedu_-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-11" target="qwEOwE-_AJAWrVWyedu_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-11" value="Gửi qua Blynk &lt;br&gt;hay pc?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="92.5" y="540" width="120" height="80" as="geometry" />
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-11" value="&lt;br&gt;Gửi qua Blynk &lt;br&gt;hay pc?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="535" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-12" target="qwEOwE-_AJAWrVWyedu_-11">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-15" value="Cài đặt thời &lt;br&gt;gian thực?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-17" target="qwEOwE-_AJAWrVWyedu_-112">
           <mxGeometry relative="1" as="geometry" />
@@ -119,79 +129,78 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-17" value="Cài đặt hẹn giờ&lt;br&gt;và số thuốc" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-42">
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="1040" as="targetPoint" />
+            <mxPoint x="240" y="1010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="75" y="1040" />
+              <mxPoint x="70" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-42" value="Khoá ngăn, &lt;br&gt;tắt Led, Buzzer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="15" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-46" target="qwEOwE-_AJAWrVWyedu_-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="170" as="targetPoint" />
+            <mxPoint x="243" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="1160" />
+              <mxPoint x="243" y="1160" />
               <mxPoint x="810" y="1160" />
               <mxPoint x="810" y="170" />
-              <mxPoint x="360" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-46" value="Thông báo &lt;br&gt;đã quá 30 phút?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="1060" width="130" height="90" as="geometry" />
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-46" value="Thông báo&lt;br&gt;đã quá &lt;br&gt;30 phút?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="177.5" y="1040" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-49" target="qwEOwE-_AJAWrVWyedu_-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-49" value="Khoá cắc ngăn, &lt;br&gt;tắt Led, Buzzer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="382" y="1075" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-50">
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="1105" as="targetPoint" />
+            <mxPoint x="810" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-50" value="Gửi số lượng thuốc còn lại về Blynk app" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="1075" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-55">
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="900" as="targetPoint" />
+            <mxPoint x="240" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="840" />
-              <mxPoint x="680" y="900" />
+              <mxPoint x="660" y="810" />
+              <mxPoint x="660" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-55" value="Mở ngăn thuốc, &lt;br&gt;Bật Led ngăn thuốc,&amp;nbsp;&lt;br&gt;Bật Buzzer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="507.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-56" target="qwEOwE-_AJAWrVWyedu_-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-56" value="Đến giờ hẹn?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="384" y="800" width="116" height="80" as="geometry" />
+          <mxGeometry x="349" y="770" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-64" target="qwEOwE-_AJAWrVWyedu_-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-64" value="Phân tích &lt;br&gt;chuỗi ký tự" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="680" width="80" height="60" as="geometry" />
+          <mxGeometry x="340" y="650" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-65" target="qwEOwE-_AJAWrVWyedu_-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-65" value="Phân tích &lt;br&gt;chuỗi ký tự" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="440" width="80" height="60" as="geometry" />
+          <mxGeometry x="340" y="440" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-72" target="qwEOwE-_AJAWrVWyedu_-76">
           <mxGeometry relative="1" as="geometry" />
@@ -200,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-72" value="Cài đặt thời &lt;br&gt;gian thực?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qwEOwE-_AJAWrVWyedu_-76" target="qwEOwE-_AJAWrVWyedu_-112">
           <mxGeometry relative="1" as="geometry" />
@@ -209,16 +218,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-76" value="Cài đặt hẹn giờ&lt;br&gt;và số thuốc" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-78" value="Lưu vào RTC&amp;nbsp;&lt;br&gt;và hiển thị ra LCD" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-78" value="Lưu vào &lt;br&gt;RTC và &lt;br&gt;hiển thị LCD" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="465" y="545" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qwEOwE-_AJAWrVWyedu_-80" value="Xoá các biến lưu tạm (buffer, content)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="522.5" width="90" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="qwEOwE-_AJAWrVWyedu_-112" value="Hiển thị ra LCD" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="555" width="90" height="60" as="geometry" />
+        <mxCell id="qwEOwE-_AJAWrVWyedu_-112" value="Hiển thị &lt;br&gt;ra LCD" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="627.5" y="545" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
