@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T14:05:58.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="eub2y45r9X-j4JeHIwu2" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T15:41:03.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="Fxr1G_Ke98cdPL4urM7i" version="15.4.1" type="github">
   <diagram id="Z7aS9ivXEPeDtErHX3Is" name="Page-1">
     <mxGraphModel dx="670" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -21,8 +21,8 @@
         <mxCell id="645gWtOrC69NpDTao6YV-2" value="&lt;h3&gt;Mạch lái&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="645gWtOrC69NpDTao6YV-24" value="&lt;h3&gt;Vị trí Rotor&lt;/h3&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=none;rounded=0;" edge="1" parent="1" source="645gWtOrC69NpDTao6YV-3" target="645gWtOrC69NpDTao6YV-1">
-          <mxGeometry x="0.0952" relative="1" as="geometry">
+        <mxCell id="645gWtOrC69NpDTao6YV-24" value="&lt;h3&gt;Vị trí Rotor&lt;/h3&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=none;rounded=0;labelBackgroundColor=none;" edge="1" parent="1" source="645gWtOrC69NpDTao6YV-3" target="645gWtOrC69NpDTao6YV-1">
+          <mxGeometry x="0.1048" y="-8" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="110" />
               <mxPoint x="270" y="110" />
@@ -34,6 +34,9 @@
           <mxGeometry x="550" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="645gWtOrC69NpDTao6YV-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=none;rounded=0;" edge="1" parent="1" source="645gWtOrC69NpDTao6YV-4" target="645gWtOrC69NpDTao6YV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="645gWtOrC69NpDTao6YV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="645gWtOrC69NpDTao6YV-4" target="645gWtOrC69NpDTao6YV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="645gWtOrC69NpDTao6YV-4" value="&lt;h3&gt;Khối nguồn&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
